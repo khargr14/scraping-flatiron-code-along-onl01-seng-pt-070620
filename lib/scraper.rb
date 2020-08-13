@@ -1,6 +1,6 @@
 require 'nokogiri'
 require 'open-uri'
-require_relative '../lib/scraper.rb'
+require '../lib/scraper.rb'
 
 require_relative './course.rb'
  
